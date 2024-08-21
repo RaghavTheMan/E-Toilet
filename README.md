@@ -23,7 +23,7 @@ The E-Toilet System is a Python application built using the Tkinter library for 
 ## Installation
 1. Clone the repository:
    
-   git clone https://github.com/Monish21072004/E-TOILET.git
+   git clone https://github.com/RaghavTheMan/E-Toilet.git
    cd e-toilet-system
    
 
